@@ -3,7 +3,7 @@
 AGV (Autonomous Guided Vehicle) beroda omnidirectional untuk riset dan pembelajaran.
 
 ## Fitur Utama
-- Roda mecanum 4 buah sehingga robot bisa maju, mundur, geser kanan/kiri, dan rotasi di tempat.
+- Roda omnidirectional 4 buah sehingga robot bisa maju, mundur, geser kanan/kiri, dan rotasi di tempat.
 - Rangka utama dari plat metal dengan cover atas tertutup, sehingga elektronik di dalam lebih aman dan rapi.
 - Tersedia mounting di bagian atas untuk sensor utama seperti LiDAR, plus beberapa bukaan untuk tombol, konektor, dan indikator.
 
